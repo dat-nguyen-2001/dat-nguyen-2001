@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dat-nguyen-2001?tab=repositories](https://github.com/dat-nguyen-2001?tab=repositories)
 
-- 📝 I regularly write articles on [https://spiderum.com/nguoi-dung/Bom172012?tab=createdPosts](https://spiderum.com/nguoi-dung/Bom172012?tab=createdPosts)
+- 📝 I occasionally write articles on [https://spiderum.com/nguoi-dung/Bom172012?tab=createdPosts](https://spiderum.com/nguoi-dung/Bom172012?tab=createdPosts)
 
 - 📫 Reach me: **datnguyenftu210@gmail.com**
 
